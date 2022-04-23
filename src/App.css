@@ -1,0 +1,14 @@
+body{
+ 
+}
+.card{
+  background-color: #F2F7F8;
+  height: 350px;
+}
+.detail{
+  font-size: 13px ;
+}
+.text-red{
+  color: red;
+  font-size: 20px;
+}
