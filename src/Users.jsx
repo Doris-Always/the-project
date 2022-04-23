@@ -43,7 +43,7 @@ class Users extends Component{
                 <div className="mt-3">
                   <h5 className="">General info</h5>
                 </div>
-                <p className="detail"><b>Username</b>:&nbsp; &nbsp; {user.username}</p>
+                    <p className="detail"><b>Username</b>:&nbsp; &nbsp; {user.username}</p>
                     <p className="detail"><b> E-mail:</b> &nbsp;&nbsp; {user.email} </p>
                     <p className="detail"><b>Address:</b> &nbsp;&nbsp;{user.address.city}</p>
                     <p className="detail"><b> Website:</b> &nbsp;&nbsp;{user.website}</p>
